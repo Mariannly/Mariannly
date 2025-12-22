@@ -1,45 +1,44 @@
-## 👩‍🔬 Mariannly Márquez — Physics Undergrad
+# 👩‍🔬 Mariannly Márquez  
+**Physics Undergraduate | Aspiring Theoretical Physicist**
 
-Hi! I’m **Mariannly Marquez**🇻🇪, a physics undergraduate at **Yachay Tech University**🇪🇨.
+Hello, I’m Mariannly Márquez 🇻🇪, a physics undergraduate at **Yachay Tech University** 🇪🇨.  
+This repository serves as a curated collection of my academic coursework, research projects, and computational tools developed during my studies and independent work.
 
-This repository collects my **academic projects, research notes, and computational tools** developed in school and outside.
+---
 
-### 🎓 Academic & Research Focus
+## 🎓 Academic & Research Interests
 
-* 🧠 **Theoretical Interests:**
+### Theoretical Focus
+- General Relativity and Differential Geometry  
+- Cosmology and Early Universe Physics  
 
-  * Relativity and Differential Geometry.
-  * Early Universe Cosmology.
+### Current and Recent Projects
+- **Matching Conditions in the 1+3 Formalism of General Relativity for Astrophysical Scenarios**  
+- **Scalar and Tensor Power Spectra in the Higgs Inflation Model Using Semiclassical Methods**
 
-* 🧩 **Current & Recent Research Projects:**
+---
 
-  * *Matching Conditions in 1+3 Formalism of General Relativity for Astrophysical Scenarios*
-  * *Scalar and Tensor Power Spectrum in the Higgs Inflation Model with Semiclassical Methods*
+## 🌱 Graduate Studies
 
+I am actively exploring **graduate programs in theoretical and mathematical physics**, with particular interest in research groups working on:
+- Relativity  
+- Cosmology and Early Universe Physics  
 
-### 🌱 I'm looking for Grad School programs!
+If you are part of a group aligned with these topics, or have advice regarding graduate programs or mentorship opportunities, I would be glad to connect.
 
-I’m currently exploring graduate programs in **theoretical physics** and **mathematical physics**, with particular interest in research groups working on:
+---
 
-* **Relativity**
-* **Cosmology and Early Universe Physics**
-* **Emergent Spacetime and Quantum Gravity Phenomenology**
+## 🛠️ Technical Skills
 
-If you’re part of a research group aligned with these topics or have advice about graduate programs or mentorship in these areas, I’d love to connect!
+**Programming:**  
+- Python, Mathematica  
 
+**Languages:**  
+- Spanish (native), English (fluent)
 
-### 🛠️ Technical Skills
+---
 
-| Category                | Skills                                          |
-| ----------------------- | ----------------------------------------------- |
-| Programming             | Python, Mathematica                             |
-| Simulation & Data       | NumPy, SciPy, Matplotlib, Astropy, Scikit-learn |
-| Writing & Documentation | LaTeX, Beamer, Markdown                         |
-| Languages               | Spanish (native), English (fluent)              |
+## ✉️ Contact
 
-
-### ✉️ Contact
-
-* 📧 **Email:** [mariannly.marquez@yachaytech.edu.ec]
-* 🌐 **LinkedIn:** [www.linkedin.com/in/mariannly-m-941b9397]
-
+- **Email:** mariannly.marquez@yachaytech.edu.ec  
+- **LinkedIn:** https://www.linkedin.com/in/mariannly-m-941b9397
