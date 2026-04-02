@@ -1,5 +1,5 @@
-# 👩‍🔬 Mariannly Márquez  
-**Physics Undergraduate | Aspiring Theoretical Physicist**
+# 👩‍🔬 Mariannly Marquez-Pirela
+**Aspiring Theoretical Physicist | Occasional Programmer |Lifelong learner**
 
 Hello, I’m Mariannly Márquez 🇻🇪, a physics undergraduate at **Yachay Tech University** 🇪🇨.  
 This repository serves as a curated collection of my academic coursework, research projects, and computational tools developed during my studies and independent work.
